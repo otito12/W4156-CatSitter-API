@@ -1,5 +1,7 @@
 # W4156-CatSitter-API
 
+THE GOAL IS TO MAKE THIS APPLICATION AS LUDICROUSLY COMPLEX. SACRIFICING LATENCY, BEST PRACTICES, AND NATURALLY COMMON SENSE TO USE AS MANY TECHNOLOGIES AS POSSIBLE
+
 Advanced Software Project Proposal
 
 Part 1
@@ -17,4 +19,4 @@ The data stored would be a log of commands issues and a persistent state of the 
 Part 3
 For testing, the server will be built using the spring boot framework. A testing server will be deployed along with a jenkins instance to manage the CI/CD pipeline. On commit the JUnit tests will be run on the latest build. The team will use a TDD approach writing the tests for the endpoints before the server code is written. 
 
-THE GOAL IS TO MAKE THIS APPLICATION AS LUDICROUSLY COMPLEX. SACRIFICING LATENCY, BEST PRACTICES, AND NATURALLY COMMON SENSE TO USE AS MANY TECHNOLOGIES AS POSSIBLE
+
